@@ -1,0 +1,29 @@
+.box-1{
+    width: 50%;
+    border: 5px solid gray;
+    border-radius: 5px;
+    /*box-shadow: 10px 10px 10px 10px blue;*/
+    /*display: none;*/
+    /*visibility: hidden;*/
+    box-sizing: border-box;
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 40px;
+    border-left: 5px solid tomato;
+    border-top: 10px solid seagreen;
+    height: 200px;
+    padding: 10px;
+}
+.box-2{
+    width: 50%;
+    border: 5px solid gray;
+    border-radius: 5px;
+    margin-top: 40px;
+    box-sizing: border-box;
+    /*box-shadow: 10px 10px 10px 10px lightcoral;*/
+    float: left;
+    border-left: 5px solid turquoise;
+    border-top: 10px solid teal;
+    height: 200px;
+    padding: 10px;
+}
